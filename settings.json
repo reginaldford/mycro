@@ -1,0 +1,10 @@
+{
+    "autoclose": false,
+    "autoindent": false,
+    "backupdir": "/tmp",
+    "colorscheme": "rexist",
+    "tabsize": 2,
+    "tabstospaces": true,
+    "colorcoloumn":100,
+    "divchars": ".-"
+}
